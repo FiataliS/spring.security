@@ -3,6 +3,7 @@ package com.spring.security.entities;
 import lombok.Data;
 
 import javax.persistence.*;
+import java.util.Collection;
 
 @Entity
 @Data
